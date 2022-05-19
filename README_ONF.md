@@ -1,7 +1,6 @@
 # Extracting protobuf from ASN.1
 
-This project adds a -B option to output .proto files from ASN.1
-(work in progress).
+This project adds a -B option to output .proto files from ASN.1.
 
 This approach generates protobufs like XSD is generated from asn1c.
 
